@@ -2,9 +2,4 @@ testing automation with jenkins
 remote build 
 this is a remote build testing
 testing sonarqube intergration
-
-    <server>
-       <id>nexus</id>
-       <username>Emilien</username>
-       <password>emilien123</password>
-     </server>
+intergrating jenkins-tomcat server
